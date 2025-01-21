@@ -25,14 +25,23 @@ Permite realizar una búsqueda de productos por nombre. Si el producto es encont
 **Estructura del proyecto**
 
 src/
+
  ├── org/
+ 
  │    └── juanbrenes/
+ 
  │         └── apiservlet/
+ 
  │             └── webapp/
+ 
  │                 └── headers/
+ 
  │                     ├── controllers/      # Contiene los servlets que manejan las peticiones HTTP
+ 
  │                     ├── models/            # Modelos que representan las entidades (Producto)
+ 
  │                     ├── services/          # Servicios que proporcionan lógica de negocio
+ 
  │                     └── webapp-headers/    # Archivos HTML y recursos estáticos
 
  ** Tecnologías utilizadas **
